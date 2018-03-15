@@ -7,8 +7,8 @@ module FormsLab
     get '/' do
 
     end
-    
-    post '/pirates' do
+
+    post '/pirates/show' do
 
     end
   end
